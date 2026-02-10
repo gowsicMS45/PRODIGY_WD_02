@@ -38,7 +38,7 @@ The application focuses on accurate time tracking while providing an engaging, m
 ---
 
 ### Live Demo
-(Add GitHub Pages link here after deployment)
+https://gowsicms45.github.io/PRODIGY_WD_02/
 
 ---
 
