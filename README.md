@@ -48,4 +48,4 @@ https://gowsicms45.github.io/PRODIGY_WD_02/
 ---
 
 ### Internship
-**Prodigy InfoTech – Web Development Internship**
+**Prodigy InfoTech – Web Development Internship**.
