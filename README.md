@@ -1,51 +1,47 @@
-# PRODIGY_WD_02
+# Stopwatch Web App
 
-## Task-02: Stopwatch Web Application with Lap & Export Features
+A responsive stopwatch application with lap recording, export support, and an immersive visual timer interface.
 
-### Description
-This project is a fully functional and visually enhanced stopwatch web application developed as **Task-02** of the **Web Development Internship at Prodigy InfoTech**.
+## Overview
 
-The application focuses on accurate time tracking while providing an engaging, modern user interface and additional features beyond a basic stopwatch.
+This project was developed as Task 02 of the Prodigy InfoTech Web Development Internship. It focuses on accurate browser-based time tracking while providing a clean, interactive user experience.
 
----
+## Features
 
-### Features
 - Start, pause, resume, and reset stopwatch
-- Lap recording with lap number and timestamp
-- Clear button to remove all recorded laps
-- Download lap data in a file format (CSV/TXT)
-- Smooth circular time visualization synced with elapsed time
-- Portrait-oriented, immersive UI with rich visual effects
+- Record laps with lap number and timestamp
+- Clear recorded laps
+- Export lap data in a downloadable file format
+- Smooth circular time visualization
 - Responsive design for different screen sizes
+- Portrait-oriented visual layout
 
----
+## Tech Stack
 
-### Technologies Used
-- HTML  
-- CSS  
-- JavaScript  
+- HTML
+- CSS
+- JavaScript
 
-(No external libraries or frameworks used)
+## Project Structure
 
----
+```text
+index.html
+style.css
+script.js
+```
 
-### How It Works
-- The stopwatch uses high-precision JavaScript timing for accurate tracking.
-- A circular visual clock represents time progression with smooth animation.
-- Each lap captures the current time and is stored dynamically.
-- Lap data can be exported for external use using the download feature.
+## How It Works
 
----
+The stopwatch uses JavaScript timing logic to track elapsed time. Each lap captures the current time and displays it in the lap list. Export functionality allows recorded lap data to be saved for external use.
 
-### Live Demo
+## Live Demo
+
 https://gowsicms45.github.io/PRODIGY_WD_02/
 
----
+## Author
 
-### Author
-**Gowsic M S**
+Gowsic M S
 
----
+## Internship
 
-### Internship
-**Prodigy InfoTech – Web Development Internship**.
+Prodigy InfoTech - Web Development Internship
